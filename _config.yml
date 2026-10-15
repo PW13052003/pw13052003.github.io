@@ -22,7 +22,7 @@ repository               : "PW13052003/pw13052003.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PW-Photo.jpeg"
+  avatar           : "PW-Photo.jpg"
   name             : "Puranjay Wadhera"
   pronouns         : "He/Him/His"  
   bio              : "MS Computer Science - Texas A&M University"
